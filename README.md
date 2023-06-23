@@ -27,7 +27,7 @@ Note: The LED has a small thermal mass and will heat up rather quickly if you us
 # Known operation conditions
 This circuit has been successfully operated at conditions listed below:
 * 500Hz, 10us pulse width, indefinitely;
-* 500kHz, 0.5us pulse width, for 2-3 seconds;
+* 500kHz, 0.5us pulse width, for 2-3 seconds (Pulse burst mode in a function generator);
 * 10-50kHz, 1us pulse width, for ~30 seconds;
 * Minimum pulse width with any light is about 250-300ns;
 * This circuit is not designed to operate without pulsing (i.e., continuously). Likely all components will fail due to the extremely high currents.
