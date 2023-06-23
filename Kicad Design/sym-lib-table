@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LukeCopy)(type Legacy)(uri ${KIPRJMOD}/LukeCopy.lib)(options "")(descr ""))
+)
