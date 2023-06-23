@@ -1,4 +1,4 @@
-# Shadowgraph_LED_Driver
+# Shadowgraph LED Driver
 A simple electronic circuit board design for overdriving a pulsed LED flash for shadowgraph purposes. 
 
 *** WARNING: This circuit overdrives an LED with up to 200A of current. COMPONENTS WILL GET BURNED! Be careful in your explorations and make sure you understand the circuit before you start messing with it! ***
